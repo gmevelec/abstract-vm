@@ -1,0 +1,20 @@
+; -------------
+; sample.avm -
+; -------------
+push int8(19000);
+push int32(33)
+dump
+add			; gijrtogjrt
+push float(44.55)
+dump
+mul
+dump
+push double(42.42)
+push int32(42)
+dump
+pop
+assert double(42.42)
+push int8(65)
+print
+				;fjioerfjer
+exit
